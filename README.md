@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agnimahima
-- 👀 I’m interested in Backend and Front-End roles
-- 🌱 I’m currently learning Machine Learning 
+- 👀 I’m interested in Java and Backend roles
+- 🌱 I’m currently learning spring boot
 - 💞️ I’m looking to collaborate to make new projects 
 - 📫 How to reach me ...
 Linkedin- mahima-agnihotri-999017145
